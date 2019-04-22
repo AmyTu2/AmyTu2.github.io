@@ -17,3 +17,11 @@ h3 {
     text-align: left;
     font-family: 'Helvetica Neue LT Pro';
 }
+
+nav {
+    float: left;
+    width: 25%;
+    height: auto;
+    background-color:antiquewhite;
+    text-align: center;
+}
