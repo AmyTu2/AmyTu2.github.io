@@ -7,21 +7,52 @@ body {
     color: dimgrey;
 }
 
-h1 {
-    text-align: left;
+#info {
+    float: left;
     font-family: 'Helvetica Neue LT Pro';
-}
-
-
-h3 {
-    text-align: left;
-    font-family: 'Helvetica Neue LT Pro';
+    padding: 10px;
 }
 
 nav {
     float: left;
     width: 25%;
-    height: auto;
-    background-color:antiquewhite;
+    height: 100vh;
+    background-color: burlywood;
     text-align: center;
+}
+
+ul {
+    font-family:'Helvetica Neue LT Pro';
+    list-style-type: none;
+    padding: 0px;
+}
+
+li a {
+    color: snow;
+    text-decoration: none;
+    display: block;
+    padding: 0.5em 1.5em;
+}
+
+li a:hover {
+    color: lightblue;
+}
+#purpose {
+    font-family: 'Helvetica Neue LT Pro';
+    float: left;
+    padding: 10px;
+}
+
+#intro {
+    display: block;
+    font-family: 'Helvetica Neue LT Pro';
+    color: dimgrey;
+    padding: 10px;
+
+}
+
+#about {
+    font-family: 'Helvetica Neue LT Pro';
+    background-color:burlywood;
+    padding: 20px;
 }
