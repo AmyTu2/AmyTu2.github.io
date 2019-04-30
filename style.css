@@ -4,10 +4,9 @@ body {
     display: block;
     margin: 8px;
     background-color: white;
+    font-family: 'Helvetica Neue LT Pro';
     color: dimgrey;
 }
-
-
 
 nav {
     float: left;
@@ -24,7 +23,7 @@ nav {
 }
 
 .links {
-    font-family: 'Helvetica Neue LT Pro';
+
     list-style-type: none;
     padding: 0px;
 }
@@ -40,46 +39,9 @@ li a:hover {
         color: lightblue;
 }
 
-#info {
-    /*float: left;*/
-    font-family: 'Helvetica Neue LT Pro';
-    padding: 10px;
-}
-
-#purpose {
-    font-family: 'Helvetica Neue LT Pro';
-    /*float: left;*/
-    padding: 10px;
-}
-
-
-
-
 .header {
-    font-family: 'Helvetica Neue LT Pro';
     background-color: burlywood;
     padding: 20px;
-}
-
-.heading {
-    display: block;
-    font-family: 'Helvetica Neue LT Pro';
-    color: dimgrey;
-    padding: 10px;
-
-}
-
-#intro {
-    font-family: 'Helvetica Neue LT Pro';
-    /*float: left;*/
-    padding: 10px;
-}
-
-#BasicInfo {
-    font-family: 'Helvetica Neue LT Pro';
-    color: dimgrey;
-    padding: 10px;
-    float: left;
 }
 
 .text {
@@ -87,12 +49,6 @@ li a:hover {
     font-size: 14px;
 }
 
-.credentials {
-    font-family: 'Helvetica Neue LT Pro';
-    padding: 10px;
-    list-style-type: none;
-
-}
 
 ul {
     list-style-type: none;
