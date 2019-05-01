@@ -6,6 +6,7 @@ body {
     background-color: white;
     font-family: 'Helvetica Neue LT Pro';
     color: dimgrey;
+    
 }
 
 nav {
@@ -47,11 +48,11 @@ li a:hover {
 .text {
     display: block;
     font-size: 14px;
+
 }
 
 
-ul {
+/*ul {
     list-style-type: none;
     padding: 10px;
- 
-}
+}*/
