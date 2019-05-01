@@ -51,6 +51,13 @@ li a:hover {
 
 }
 
+#resume {
+    color: lightblue;
+}
+
+#resume:hover {
+    color: darkblue;
+}
 
 /*ul {
     list-style-type: none;
