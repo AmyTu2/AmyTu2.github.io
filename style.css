@@ -6,6 +6,7 @@ body {
     background-color: white;
     font-family: 'Helvetica Neue LT Pro';
     color: dimgrey;
+    text-align: center;
     
 }
 
@@ -43,11 +44,13 @@ li a:hover {
 .header {
     background-color: burlywood;
     padding: 20px;
+    text-align: center;
 }
 
 .text {
     display: block;
     font-size: 14px;
+    text-align: center;
 
 }
 
@@ -59,7 +62,8 @@ li a:hover {
     color: darkblue;
 }
 
-/*ul {
+ul {
     list-style-type: none;
     padding: 10px;
-}*/
+    text-align: center;
+}
